@@ -1,0 +1,10 @@
+{
+  "name": "benchmark-versus-pull-stream",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "callbag-basics": "^2.0.1",
+    "fastbench": "^1.0.1",
+    "pull-stream": "^3.6.1"
+  }
+}
